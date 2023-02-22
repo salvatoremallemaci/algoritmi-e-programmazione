@@ -1,0 +1,28 @@
+20
+S21 lucca firenze 21/02/2001 11 21 05
+W12 roma messina 23/05/2002 8 11 05
+A32 torino milano 22/05/2003 10 17 20
+C13 torino milano 23/05/2004 10 17 20
+S12 roma messina 23/05/2005 11 15 15
+C13 torino milano 23/05/2006 10 17 18
+A32 torino firenze 22/05/2007 10 18 20
+A21 bergamo torino 21/01/2008 21 23 0
+S21 lucca firenze 21/02/2009 11 21 20
+S21 lucca torino 21/02/2010 11 21 15
+S23 palermo firenze 21/02/2011 11 24 0
+F65 lucca firenze 12/02/2012 11 21 05
+A32 milano torino 23/12/2013 10 17 15
+S21 lucca firenze 21/02/2014 11 21 05
+C13 torino milano 23/05/2015 10 17 29
+W21 torino milano 23/05/2016 10 17 20
+A21 bergamo cagliari 21/01/2017 21 15 10
+W12 roma messina 23/12/2018 8 11 05
+H71 roma messina 23/05/2019 11 15 15
+C13 torino milano 23/05/2020 10 17 20
+
+
+
+
+
+
+

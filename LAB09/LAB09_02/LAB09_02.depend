@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\salva\desktop\a&prog\laboratorio\lab09\lab09_03\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1576779714 source:c:\users\salva\desktop\a&prog\laboratorio\lab09\lab09_03\inv.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"INV.h"
+
+1576776992 c:\users\salva\desktop\a&prog\laboratorio\lab09\lab09_03\inv.h
+
+1576781151 source:c:\users\salva\desktop\a&prog\laboratorio\lab09\lab09_03\invarray.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"invArray.h"
+
+1576781148 c:\users\salva\desktop\a&prog\laboratorio\lab09\lab09_03\invarray.h
+	"INV.h"
+
+1576864059 source:c:\users\salva\desktop\a&prog\laboratorio\lab09\lab09_02\inv.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"INV.h"
+
+1576867894 c:\users\salva\desktop\a&prog\laboratorio\lab09\lab09_02\inv.h
+
+1577116515 source:c:\users\salva\desktop\a&prog\laboratorio\lab09\lab09_02\invarray.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"invArray.h"
+
+1576852029 c:\users\salva\desktop\a&prog\laboratorio\lab09\lab09_02\invarray.h
+	"INV.h"
+
+1577116639 source:c:\users\salva\desktop\a&prog\laboratorio\lab09\lab09_02\main.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"INV.h"
+	"invArray.h"
+	"equipArray.h"
+	"pg.h"
+	"pgList.h"
+
+1576926253 source:c:\users\salva\desktop\a&prog\laboratorio\lab09\lab09_02\equiparray.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"equipArray.h"
+	"invArray.h"
+
+1576853566 c:\users\salva\desktop\a&prog\laboratorio\lab09\lab09_02\equiparray.h
+	"invArray.h"
+
+1577101017 source:c:\users\salva\desktop\a&prog\laboratorio\lab09\lab09_02\pg.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"PG.h"
+
+1576867866 c:\users\salva\desktop\a&prog\laboratorio\lab09\lab09_02\pg.h
+	"equipArray.h"
+
+1577116079 source:c:\users\salva\desktop\a&prog\laboratorio\lab09\lab09_02\pglist.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"pgList.h"
+
+1577100352 c:\users\salva\desktop\a&prog\laboratorio\lab09\lab09_02\pglist.h
+	"PG.h"
+

@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1579900611 source:c:\users\salva\desktop\a&prog\laboratorio\lab11\lab11_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TITOLO.h"
+	"DATE.h"
+	"QUOT.h"
+
+1579900214 source:c:\users\salva\desktop\a&prog\laboratorio\lab11\lab11_01\quot.c
+	"QUOT.h"
+	<stdlib.h>
+
+1579900214 source:c:\users\salva\desktop\a&prog\laboratorio\lab11\lab11_01\titolo.c
+	"TITOLO.h"
+	"QUOT.h"
+	<stdlib.h>
+	<string.h>
+
+1579900214 source:c:\users\salva\desktop\a&prog\laboratorio\lab11\lab11_01\date.c
+	"DATE.h"
+	<stdio.h>
+
+1579900645 c:\users\salva\desktop\a&prog\laboratorio\lab11\lab11_01\date.h
+	<stdio.h>
+
+1579900645 c:\users\salva\desktop\a&prog\laboratorio\lab11\lab11_01\quot.h
+	"DATE.h"
+
+1579900645 c:\users\salva\desktop\a&prog\laboratorio\lab11\lab11_01\titolo.h
+	"DATE.h"
+	"QUOT.h"
+

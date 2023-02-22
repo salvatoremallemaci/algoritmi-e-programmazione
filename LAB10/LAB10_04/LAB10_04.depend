@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1579363418 source:c:\users\salva\desktop\a&prog\laboratorio\lab10\lab10_04\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Item.h"
+	"ST.h"
+	"Graph.h"
+
+1579363061 source:c:\users\salva\desktop\a&prog\laboratorio\lab10\lab10_04\graph.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Graph.h"
+
+1579362529 c:\users\salva\desktop\a&prog\laboratorio\lab10\lab10_04\graph.h
+	"ST.h"
+
+1579343024 c:\users\salva\desktop\a&prog\laboratorio\lab10\lab10_04\st.h
+	"Item.h"
+
+1579342886 source:c:\users\salva\desktop\a&prog\laboratorio\lab10\lab10_04\st.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ST.h"
+
+1579343024 source:c:\users\salva\desktop\a&prog\laboratorio\lab10\lab10_04\item.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Item.h"
+
+1579343024 c:\users\salva\desktop\a&prog\laboratorio\lab10\lab10_04\item.h
+

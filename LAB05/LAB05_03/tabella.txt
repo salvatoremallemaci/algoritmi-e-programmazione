@@ -1,0 +1,28 @@
+20
+C13 torino milano 23/05/2019 10 17 20
+W12 roma messina 23/05/2019 8 11 05
+A32 torino milano 22/05/2019 10 17 20
+S21 lucca firenze 21/02/2017 11 21 05
+S12 roma messina 23/05/2018 11 15 15
+C13 torino milano 23/05/2019 10 17 18
+A32 torino firenze 22/05/2019 10 18 20
+A21 bergamo torino 21/01/2018 21 23 0
+S21 lucca firenze 21/02/2017 11 21 20
+S21 lucca torino 21/02/2019 11 21 15
+S23 palermo firenze 21/02/2017 11 24 0
+F65 lucca firenze 12/02/2018 11 21 05
+A32 milano torino 23/12/2019 10 17 15
+S21 lucca firenze 21/02/2017 11 21 05
+C13 torino milano 23/05/2019 10 17 29
+W21 torino milano 23/05/2019 10 17 20
+A21 bergamo cagliari 21/01/2018 21 15 10
+W12 roma messina 23/12/2019 8 11 05
+H71 roma messina 23/05/2018 11 15 15
+C13 torino milano 23/05/2019 10 17 20
+
+
+
+
+
+
+

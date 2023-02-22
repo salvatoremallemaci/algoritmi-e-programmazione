@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1570783027 source:c:\users\salva\desktop\a&prog\laboratorio\lab00\soluzioni esercitazione\sollab00_01\main.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+

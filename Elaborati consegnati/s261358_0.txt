@@ -1,0 +1,88 @@
+Questionario nominativo, volontario con dati ad esclusivo uso dei docenti per finalità di ricerca sullametodologia didatticaDa che tipo di istituto superiore provieni?
+[0] {0 = Liceo Scientifico, 1 = Scientifico Sperimentale, 3 = Liceo Classico, 3 Altro Liceo, 4 = ITIS Informatica e telecomunicazioni,  5 = ITIS Altro indirizzo, 6 = Istituto professionale, 9 = Altro}
+
+Avevi già affrontato il tema del calcolo combinatorio in studi precedenti?
+[1] {1 = Sì, 2 = No}
+
+Se sì, quanto positivamente valuti i contenuti e le modalità di insegnamento del calcolo combinatorio nei tuoi studi pregressi
+[2] {0 = Non applicabile, 1 = Molto negativo, 2 = Negativo, 3 = Neutro, 4 = Positivo, 5 = Molto Positivo}
+
+Se sì, quanto ritieni ti siano state utili le tue conoscenze pregresse per affrontare gli argomenti del corso
+[2] {0 = Non applicabile, 1 = Per niente utili, 2 = Poco utili, 3 = Utili, 4 = Molto utili, 5 = Estremamente utili}
+
+Avevi già affrontato il tema della ricorsione in studi precedenti?
+[3] {1 = Sì, 2 = affrontato come autodidatta, 3 = No}
+
+Se la risposta precedente è 1 o 2, quanto positivamente valuti i contenuti e le modalità di insegnamento della ricorsione nei tuoi studi pregressi o nella preparazione autodidattica
+[X] {0 = Non applicabile, 1 = Molto negativo, 2 = Negativo, 3 = Neutro, 4 = Positivo, 5 = Molto Positivo}
+
+Se sì, quanto ritieni ti siano state utili le tue conoscenze pregresse per affrontare gli argomenti del corso
+[X] {0 = Non applicabile, 1 = Per niente utili, 2 = Poco utili, 3 = Utili, 4 = Molto utili, 5 = Estremamente utili}
+
+---------------------------
+
+Dato un problema ricorsivo da risolvere, quanto facilmente riesci ad individuare il modello-base di calcolo combinatorio sottostante? 
+[2] {0 = impossibile, 1 = molto difficile, 2 = difficile, 3 = facile, 4 = molto facile, 5 = immediato}
+
+Quanto ti senti in grado di adattare i modelli-base a problemi che affronti per la prima volta? 
+[3] {0 = Per niente, 1 = Molto poco 2 = Poco, 3 = Neutro, 4 = Molto, 5 = Estremamente}
+
+Dopo aver identificato il modello-base e dopo averlo adattato al problema specifico, quanto ritieni ti sia facile  scrivere un programma C che lo risolva? 
+[2] {0 = impossibile, 1 = molto difficile, 2 = difficile, 3 = facile, 4 = molto facile, 5 = immediato}
+
+Se non fossero stati introdotti i modelli basati sul calcolo combinatorio, per te risolvere i problemi ricorsivi proposti sarebbe stato: 
+[4] {0 = Molto più facile, 1 = Più facile, 2 = Ugualmente facile, 3 = Ugualmente difficile 4 = Più difficile, 5 = Molto più difficile}
+
+---------------------------
+
+Per i seguenti modelli, indica il tuo grado di comprensione teorica dell'argomento e dai una valutazione delle tua confidenza nel suo utilizzo/implementazione in pratica. Per ogni risposta usa un valore da 0 (minimo) a 5 (massimo).
+
+Principio di moltiplicazione
+[4] Comprensione 
+[3] Utilizzo 
+
+Powerset
+[3] Comprensione 
+[3] Utilizzo 
+
+Disposizioni
+[3] Comprensione 
+[2] Utilizzo 
+
+Permutazioni
+[2] Comprensione 
+[2] Utilizzo 
+
+Combinazioni
+[4] Comprensione 
+[3] Utilizzo 
+
+Partizionamento
+[3] Comprensione 
+[2] Utilizzo 
+
+Per i seguenti aspetti di una funzione ricorsiva, indica il tuo grado di comprensione teorica dell'argomento e dai una valutazione delle tua confidenza nel suo utilizzo/implementazione in pratica. Per ogni risposta usa un valore da 0 (minimo) a 5 (massimo).
+
+Condizione di terminazione
+[4] Comprensione 
+[3] Utilizzo 
+
+Criteri di stop anticipato all'individuazione di una soluzione
+[3] Comprensione 
+[3] Utilizzo
+
+Iterazione sulla scelta (dei sotto-problemi su cui ricorrere)
+[4] Comprensione 
+[3] Utilizzo 
+
+Pruning
+[3] Comprensione 
+[2] Utilizzo 
+
+Backtrack
+[3] Comprensione 
+[3] Utilizzo 
+
+gestione dei parametri e degli eventuali risultati di ogni chiamata ricorsiva
+[4] Comprensione 
+[3] Utilizzo 

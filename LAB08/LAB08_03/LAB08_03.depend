@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1576429407 source:c:\users\salva\desktop\a&prog\laboratorio\lab08\lab08_03\main.c
+	<stdio.h>
+	<stdlib.h>
+	"INV.h"
+	"PG.h"
+
+1576413421 source:c:\users\salva\desktop\a&prog\laboratorio\lab08\lab08_03\inv.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"INV.h"
+
+1576428734 c:\users\salva\desktop\a&prog\laboratorio\lab08\lab08_03\inv.h
+
+1576429365 source:c:\users\salva\desktop\a&prog\laboratorio\lab08\lab08_03\pg.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"PG.h"
+
+1576429365 c:\users\salva\desktop\a&prog\laboratorio\lab08\lab08_03\pg.h
+	"INV.h"
+

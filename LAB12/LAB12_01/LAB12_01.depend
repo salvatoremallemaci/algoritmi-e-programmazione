@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1579891072 source:c:\users\salva\desktop\a&prog\laboratorio\lab12\lab12_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"GRAPH.h"
+	<limits.h>
+
+1579890482 source:c:\users\salva\desktop\a&prog\laboratorio\lab12\lab12_01\st.c
+	"ST.h"
+	<stdlib.h>
+	<string.h>
+
+1579890395 source:c:\users\salva\desktop\a&prog\laboratorio\lab12\lab12_01\graph.c
+	"GRAPH.h"
+	"ST.h"
+	<stdlib.h>
+	<stdio.h>
+
+1579890352 c:\users\salva\desktop\a&prog\laboratorio\lab12\lab12_01\graph.h
+	<stdio.h>
+
+1579890440 c:\users\salva\desktop\a&prog\laboratorio\lab12\lab12_01\st.h
+
